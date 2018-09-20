@@ -15,10 +15,8 @@ return [
 
 
     //https://app.bitly.com
-    //email : satish6073@gmail.com
-    //pass:as fb
-    //ab10acd1302003d86a491c363ba73242ca0cd893    
+   //ab10acd1302003d86a491c363ba73242ca0cd893    
 
-//ab10acd1302003d86a491c363ba73242ca0cd893
+
 ];
 
